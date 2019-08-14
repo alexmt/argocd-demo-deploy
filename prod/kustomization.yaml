@@ -9,4 +9,4 @@ patchesStrategicMerge:
 
 images:
 - name: alexmt/argocd-demo
-  newTag: 1286dceb3bbcce7fb5e32d11b379035931d6fd8d
+  newTag: 3824e3ce01af4947d4375c2d8fb22159d12e5c04
